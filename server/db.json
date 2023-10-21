@@ -1,0 +1,85 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 24000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "Spicy Chicken",
+            "description": "Ini adalah spicy chicken",
+            "price": 18000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/group_photo/2023/6/3/bzilpvmecz3gmmngfan9vg_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 5,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 6,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 7,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 8,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 9,
+            "name": "Burger Double",
+            "description": "Ini adalah burger Double",
+            "price": 40000,
+            "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/98mmiliweaesnsyqgrqz6m_product_list.jpg",
+            "authorId": 1,
+            "categoryId": 1
+        }
+    ]
+}

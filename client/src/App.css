@@ -1,0 +1,124 @@
+body {
+  background-image: url(../images/burgerking-bg.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  position: relative;
+}
+
+.header-block {
+  background-color: #2d2d2d;
+  height: 76px;
+  font-size: 24px;
+}
+
+.nav-link {
+  margin-right: 32px;
+  color: white;
+}
+
+.cart {
+  background-color: #ed7801;
+  padding: 17px;
+  margin-top: -10px;
+}
+
+.navbar {
+  height: 85px;
+}
+
+.navbar-brand {
+  margin-top: 26px;
+  z-index: 1000;
+}
+
+.navbar-brand img {
+  width: 92px;
+}
+
+.nav-left {
+  font-family: "Flame Bold";
+}
+
+.menu-title {
+  font-family: "Flame Bold";
+  color: #8b542f;
+  font-weight: normal;
+  font-size: 32px;
+}
+
+.index {
+  margin-left: 154px;
+  margin-right: 154px;
+}
+
+.card {
+  border: none;
+  box-shadow: 2px 2px 15px -4px #6b6b6b;
+  width: 20rem;
+}
+
+.card .card-text {
+  font-family: "Flame Bold";
+  color: #8b542f;
+}
+
+.card img {
+  padding: 20px;
+}
+
+.footer-block {
+  height: 125px;
+  width: 100%;
+  background-color: #2d2d2d;
+  color: #fff;
+  z-index: 100;
+  margin-top: 45px;
+}
+
+.card .btn {
+  height: 40px;
+  width: 59%;
+  background-color: #ed7801;
+  color: white;
+  font-family: "Flame Bold";
+}
+
+.footer-content {
+  margin-left: 154px;
+  margin-right: 154px;
+  max-width: 960px;
+  height: auto;
+  margin: 0 auto;
+  padding: 12px 0;
+}
+
+.footer-block .footer-content .title {
+  font-size: 25px;
+}
+
+.content-detail {
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.content-detail h1 {
+  font-family: "Flame Bold";
+  color: #8b542f;
+}
+
+.content-detail p {
+  color: #8b542f;
+  font-size: 28px;
+}
+
+.detail-title {
+  font-family: "Flame Bold";
+  color: #8b542f;
+  font-size: 50px;
+}
+
+.content-detail .upload-by {
+  color: #2d2d2d;
+}
